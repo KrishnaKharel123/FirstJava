@@ -1,0 +1,51 @@
+
+public class Mark sheet123
+{
+
+    int results;
+    int maths45;
+    int computer=67;
+    int english =89;
+
+
+
+
+    public static void main (String [] args)
+    {
+
+
+       mark sheet.totalMarks(maths45,computer67,english89);
+
+
+
+
+    }
+
+    void totalMarks (int maths,int computer,int english)
+    {
+
+        total = maths + computer + english;
+        System.out.println ( "The total value ="+total);
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
